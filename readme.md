@@ -1,1 +1,3 @@
-ifconfig eth0 192.168.1.1/24
+## Run Emulator
+
+lstart
